@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0b36,1c1c1c&height=250&section=header&text=NGUYEN%20THE%20HUY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20BadHyu123%20%E2%80%A2%20Data%20Analyst%20%26%20Fullstack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="./assets/header.svg" width="100%" alt="Nguyen The Huy — aka BadHyu123 • Data Analyst & Fullstack Developer" />
 </div>
 
 <!-- Typing -->
@@ -88,7 +88,7 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1c1c1c,ff0b36&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
   <br>
   <i><b>"From raw data to real products."</b></i>
   <br>
